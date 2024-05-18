@@ -9,15 +9,15 @@ Descrição resumida sobre o projeto construído. Logo abaixo segue algumas suge
 
 ## Índice
 
-- [Pré-requisitos](#pre-requisito)
-- [Instalação](#instalacao)
-- [Instrução de Uso](#instrucao-de-uso)
+- [Pré-requisitos](#pré-requisito)
+- [Instalação](#instalação)
+- [Instrução de Uso](#instrução-de-uso)
 - [Estrutura do Projeto](#estrutura-do-projeto)
-- [Contribuição](#contribuicao)
-- [Licença](#licenca)
+- [Contribuição](#contribuição)
+- [Licença](#licença)
 - [Contribuidores](#contribuidores)
 - [Database](#database)
-- [Referências](#referencias)
+- [Referências](#referências)
 
 ## Pré-requisitos
 
