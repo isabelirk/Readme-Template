@@ -2,7 +2,7 @@
     <img src="./.github/Readme.png" width="1920px">
 </p>
 
-# Título
+# :pushpin: Título
 
 Descrição resumida sobre o projeto construído. Logo abaixo segue algumas sugestões de informações para serem inseridas neste item:
 
