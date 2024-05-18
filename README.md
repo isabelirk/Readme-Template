@@ -21,18 +21,65 @@ Descrição resumida sobre o projeto construído. Logo abaixo segue algumas suge
 
 ## Pré-requisitos
 
+Item opcional. Informe a existência de pré-requisitos para executar o projeto e link com mais informações.
+
 ## Instalação
+
+Forneça instruções claras e detalhadas sobre como instalar e configurar o projeto.
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/your-username/project-name.git
+```
+
+2. Install dependencies.
 
 ## Instrução de Uso
 
+Explique como usar o projeto com exemplos claros. Caso seja necessário, inclua comandos de linha de comando ou exemplos de códigos.
+
 ## Estrutura do Projeto
+
+Descreva a estrutura de diretórios e arquivos do projeto para ajudar no entendimento da organização dos mesmos.
+
+├── data
+│ ├── raw
+│ ├── processed
+├── notebooks
+│ ├── exploratory_analysis.ipynb
+├── src
+│ ├── **init**.py
+│ ├── data_processing.py
+│ ├── model_training.py
+├── tests
+│ ├── test_data_processing.py
+│ ├── test_model_training.py
+├── requirements.txt
+└── README.md
+
+## Estrutura do Projeto
+
+Descreva a estrutura do diretório do projeto para ajudar os novos colaboradores a entenderem a organização dos arquivos.
 
 ## Contribuição
 
+Forneça as diretrizes para contribuir com o projeto, incluindo como criar uma issue e fazer pull requests.
+
 ## Licença
+
+Indique a licença sob a qual o projeto é distribuído.
 
 ## Contribuidores
 
+Item opcional. Espaço para informar todas as pessoas que participaram da construção do projeto.
+
 ## Database
 
+Item opcional. Informações a respeito da base de dados utilizada no projeto.
+
 ## Referências
+
+Liste artigos, tutoriais, ou qualquer outro material de referência que tenha sido útil no desenvolvimento do projeto.
+
+1. [Artigo 1](https://linkparaartigo.com)
