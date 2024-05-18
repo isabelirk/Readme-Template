@@ -66,7 +66,7 @@ Forneça as diretrizes para contribuir com o projeto, incluindo como criar uma i
 
 Indique a licença sob a qual o projeto é distribuído.
 
-Este projeto está sob licença [MIT](./.github/LICENSE).
+Este projeto está sob licença [MIT](https://github.com/isabelirk/Readme-Template/blob/main/.github/LICENSE).
 
 ## Contribuidores
 
