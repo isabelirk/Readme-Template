@@ -58,10 +58,6 @@ Descreva a estrutura de diretórios e arquivos do projeto para ajudar no entendi
 ├── requirements.txt  
 └── README.md
 
-## Estrutura do Projeto
-
-Descreva a estrutura do diretório do projeto para ajudar os novos colaboradores a entenderem a organização dos arquivos.
-
 ## Contribuição
 
 Forneça as diretrizes para contribuir com o projeto, incluindo como criar uma issue e fazer pull requests.
@@ -69,6 +65,8 @@ Forneça as diretrizes para contribuir com o projeto, incluindo como criar uma i
 ## Licença
 
 Indique a licença sob a qual o projeto é distribuído.
+
+Este projeto está sob licença [MIT](./.github/LICENSE).
 
 ## Contribuidores
 
