@@ -27,13 +27,13 @@ Item opcional. Informe a existência de pré-requisitos para executar o projeto 
 
 Forneça instruções claras e detalhadas sobre como instalar e configurar o projeto.
 
-1. Clone the repository:
+1. Clone o respositório:
 
 ```bash
 git clone https://github.com/your-username/project-name.git
 ```
 
-2. Install dependencies.
+2. Instale as dependências.
 
 ## Instrução de Uso
 
@@ -43,19 +43,19 @@ Explique como usar o projeto com exemplos claros. Caso seja necessário, inclua 
 
 Descreva a estrutura de diretórios e arquivos do projeto para ajudar no entendimento da organização dos mesmos.
 
-├── data
-│ ├── raw
-│ ├── processed
-├── notebooks
-│ ├── exploratory_analysis.ipynb
-├── src
-│ ├── **init**.py
-│ ├── data_processing.py
-│ ├── model_training.py
-├── tests
-│ ├── test_data_processing.py
-│ ├── test_model_training.py
-├── requirements.txt
+├── data  
+│ ├── raw  
+│ ├── processed  
+├── notebooks  
+│ ├── exploratory_analysis.ipynb  
+├── src  
+│ ├── **init**.py  
+│ ├── data_processing.py  
+│ ├── model_training.py  
+├── tests  
+│ ├── test_data_processing.py  
+│ ├── test_model_training.py  
+├── requirements.txt  
 └── README.md
 
 ## Estrutura do Projeto
