@@ -1,3 +1,7 @@
+<p align="center">
+    <img src="./.github/readme.png" width="1920px">
+</p>
+
 # Título
 
 Descrição resumida sobre o projeto construído. Logo abaixo segue algumas sugestões de informações para serem inseridas neste item:
@@ -6,6 +10,11 @@ Descrição resumida sobre o projeto construído. Logo abaixo segue algumas suge
 - Qual é a sua finalidade e qual problema ele resolver?
 - Qual é o contexto do projeto?
 - Como foi feito?
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ## Índice
 
@@ -61,6 +70,27 @@ Descreva a estrutura de diretórios e arquivos do projeto para ajudar no entendi
 ## Contribuição
 
 Forneça as diretrizes para contribuir com o projeto, incluindo como criar uma issue e fazer pull requests.
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="#">
+        <img src="https://avatars.githubusercontent.com/u/31291959?v=4" width="100px;" alt="Foto da Isabeli Reik"/><br>
+        <sub>
+          <b>Isabeli Reik</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="#">
+        <img src="https://miro.medium.com/max/360/0*1SkS3mSorArvY9kS.jpg" width="100px;" alt="Foto do Steve Jobs"/><br>
+        <sub>
+          <b>Steve Jobs</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## Licença
 
