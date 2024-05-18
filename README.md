@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="./.github/readme.png" width="1920px">
+    <img src="./.github/Readme.png" width="1920px">
 </p>
 
 # Título
